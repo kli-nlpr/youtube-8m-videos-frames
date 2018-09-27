@@ -1,3 +1,6 @@
+直接运行down.py就可以了
+
+
 # Youtube-8m Videos and Frames Generator
 This repository contains scripts for downloading videos corresponding to a particular or a few categories of [youtube-8m dataset](https://research.google.com/youtube8m/index.html).
 
