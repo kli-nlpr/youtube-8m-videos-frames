@@ -1,4 +1,4 @@
-##直接运行download.py就可以了
+## 直接运行download.py就可以了
 
 
 # Youtube-8m Videos and Frames Generator
