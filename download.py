@@ -4,8 +4,8 @@ import subprocess
 from tqdm import tqdm
 
 lines=open('youtube8mcategories.txt').readlines()
-
 downloaded=open('downloaded_class.txt','w')
+
 for line in tqdm(lines):
     temp=line.strip().split()
     name=" ".join(temp[3:-1])
